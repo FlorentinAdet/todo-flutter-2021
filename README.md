@@ -1,16 +1,10 @@
 # todolist
 
-A new Flutter project.
+ADET Florentin / POIROT Mattéo
+Projet fini jusqu'au TD8 inclus 
 
-## Getting Started
+## Lien vidéo pour fonctionnement de l'application : 
+https://vimeo.com/690256349
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
